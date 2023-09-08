@@ -1,0 +1,21 @@
+
+.body{
+    margin: 0px;
+    padding: 0px;
+    width: 100vw;
+    height: 100vh;
+}
+
+
+.flex {
+    display: flex;
+    /* justify-content: space-between; */
+    justify-content: center;
+}
+.card:focus {
+    border: none !important;
+ }
+
+ .row {
+    margin-right: 0px !important;
+ }
